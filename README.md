@@ -2,7 +2,7 @@
 https://github.com/lzhenboy/Speech2Text.git
 #### 1、视频抽取语音
 **目标**：从视频文件中抽取语音<br>
-**工具**：ffmpeg
+**工具**：ffmpeg<br>
 **安装**：
 ```
 brew install ffmpeg
@@ -37,6 +37,6 @@ python speech2text.py
 
 
 #### 参考文献
-1、[使用Python进行语音识别---将音频转为文字](https://zhuanlan.zhihu.com/p/26121974)
-2、[Python使用Speech_Recognition实现普通话识别](https://www.cnblogs.com/lishangzhi/p/12089981.html)
-3、[ffmpeg 从视频中提取WAV格式的音频](https://blog.csdn.net/huplion/article/details/80839944)
+1、[使用Python进行语音识别---将音频转为文字](https://zhuanlan.zhihu.com/p/26121974)<br>
+2、[Python使用Speech_Recognition实现普通话识别](https://www.cnblogs.com/lishangzhi/p/12089981.html)<br>
+3、[ffmpeg 从视频中提取WAV格式的音频](https://blog.csdn.net/huplion/article/details/80839944)<br>
