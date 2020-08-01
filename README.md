@@ -1,7 +1,7 @@
 本示例相关代码见github：
 https://github.com/lzhenboy/Speech2Text.git
 #### 1、视频抽取语音
-**目标**：从视频文件中抽取语音
+**目标**：从视频文件中抽取语音<br>
 **工具**：ffmpeg
 **安装**：
 ```
@@ -20,8 +20,8 @@ speech-demo.wav # 输出文件路径
 ```
 
 #### 2、语音识别
-**目标**：从语音中识别文本
-**开源实现**：[SpeechRecognition](https://pypi.org/project/SpeechRecognition/)
+**目标**：从语音中识别文本<br>
+**开源实现**：[SpeechRecognition](https://pypi.org/project/SpeechRecognition/)<br>
 **安装**：
 ```
 pip install SpeechRecognition
